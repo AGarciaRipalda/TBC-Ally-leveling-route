@@ -1,5 +1,5 @@
 services:
-  - type: static
+  - type: web
     name: tbc-leveling-logbook
     env: static
     buildCommand: echo 'No build command needed'
